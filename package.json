@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.5.2",
-    "froala-editor": "^2.7.6"
+    "froala-editor": "2.8.1"
   },
   "devDependencies": {
     "babel-core": "^6.6.0",
